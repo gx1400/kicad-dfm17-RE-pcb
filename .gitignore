@@ -24,3 +24,6 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+
+#backups
+fm-17_reveng/dfm-17_reveng-backups/*
