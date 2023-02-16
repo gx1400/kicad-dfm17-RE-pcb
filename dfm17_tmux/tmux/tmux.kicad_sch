@@ -3625,7 +3625,7 @@
     (property "Reference" "R?" (id 0) (at 118.11 68.5799 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (property "Value" "2M" (id 1) (at 118.11 71.1199 0)
+    (property "Value" "332K" (id 1) (at 118.11 69.8499 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "" (id 2) (at 116.586 70.104 90)
@@ -3842,7 +3842,7 @@
     (property "Reference" "R?" (id 0) (at 144.78 31.7499 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (property "Value" "20k" (id 1) (at 144.78 34.2899 0)
+    (property "Value" "100" (id 1) (at 144.78 33.0199 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "" (id 2) (at 143.256 33.274 90)
@@ -3909,7 +3909,7 @@
     (property "Reference" "R?" (id 0) (at 144.78 22.8599 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (property "Value" "20k" (id 1) (at 144.78 25.3999 0)
+    (property "Value" "1k" (id 1) (at 144.78 24.1299 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "" (id 2) (at 143.256 24.384 90)
@@ -4264,16 +4264,16 @@
       (reference "R?") (unit 1) (value "20k") (footprint "")
     )
     (path "/80c340c3-0db1-48bf-898a-667b52d5b4ea"
-      (reference "R?") (unit 1) (value "2M") (footprint "")
+      (reference "R?") (unit 1) (value "332K") (footprint "")
     )
     (path "/932ef468-f011-4e64-b968-0590c099e22d"
       (reference "R?") (unit 1) (value "20k") (footprint "")
     )
     (path "/abe8c85a-8e96-44c4-b9f6-0aeb61c14d61"
-      (reference "R?") (unit 1) (value "20k") (footprint "")
+      (reference "R?") (unit 1) (value "100") (footprint "")
     )
     (path "/bb98d0a0-ef65-49dd-ba6a-da766456d1a9"
-      (reference "R?") (unit 1) (value "20k") (footprint "")
+      (reference "R?") (unit 1) (value "1k") (footprint "")
     )
     (path "/f638d45d-8eb8-40d3-9829-4d4198684093"
       (reference "R?") (unit 1) (value "20k") (footprint "")
